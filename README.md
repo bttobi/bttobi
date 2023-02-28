@@ -1,7 +1,7 @@
 # 🖥️ Bartosz Tobiński</h1>
 
 ### 👤 Who am I?
-<font size="12">I'm a full-time ICT student at Poznań University of Technology and a front-end developer. <br />
+<font size="1">I'm a full-time ICT student at Poznań University of Technology and a front-end developer. <br />
 Currently working at GSK as an IT Automation Trainee.</font>
 
 #
