@@ -28,8 +28,8 @@ Currently working at GSK as an IT Automation Trainee.
 
 #
 
-### 🎨 What are my interests aside from programming?
-<font size="12">🔧 Repairing and tweaking wide variety of electronic devices<br/>
+### 🎨 What are my interests besides programming?
+<font size="12">🔧 Repairing and tinkering with wide variety of electronic devices<br/>
 🤸 Calisthenics<br/>
 🧊 Solving Rubik's Cubes</font><br/>
 
