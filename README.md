@@ -19,7 +19,7 @@
 
 
 ### 🎨 What are my interests aside from programming?
-🔧 Repairing and tweaking wide variety of electronic devices
-🤸 Calisthenics
-🧊 Solving Rubik's Cubes
+🔧 Repairing and tweaking wide variety of electronic devices<br/>
+🤸 Calisthenics<br/>
+🧊 Solving Rubik's Cubes<br/>
 
