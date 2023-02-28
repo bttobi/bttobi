@@ -1,10 +1,12 @@
 # 🖥️ Bartosz Tobiński
-[![Stats](https://github-readme-stats.vercel.app/api?username=bttobi&count_private=true&show_icons=true&theme=dark)](https://github.com/bttobi/github-readme-stats)
 
 ### 👤 Who am I?
 <p align="justify">I'm a full-time ICT student at Poznań University of Technology and a front-end developer.</p>
 
 #
+
+### 📊 Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=bttobi&count_private=true&show_icons=true&theme=dark)](https://github.com/bttobi/github-readme-stats)
 
 ### 🧰 Languages and tools
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
