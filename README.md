@@ -4,6 +4,8 @@
 <p align="justify">I'm a full-time ICT student at Poznań University of Technology and a front-end developer.
 Currently working at GSK as an IT Automation Trainee.</p>
 
+<br />
+
 #
 
 ### 📊 Stats
