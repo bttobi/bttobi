@@ -12,7 +12,8 @@
 <img align="left" padding="5px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                    
 
-### What are my interests?
-
-
+### What are my interests aside from programming?
+🔧 Repairing and tweaking wide variety of electronic devices
+🤸 Calisthenics
+🧊 Solving Rubik's Cubes
 
