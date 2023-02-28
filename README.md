@@ -8,6 +8,10 @@
 ### 📊 Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=bttobi&count_private=true&show_icons=true&theme=dark)](https://github.com/bttobi/github-readme-stats)
 
+<br />
+
+#
+
 ### 🧰 Languages and tools
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
