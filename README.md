@@ -24,3 +24,9 @@
 🤸 Calisthenics<br/>
 🧊 Solving Rubik's Cubes<br/>
 
+#
+
+### Connect with me!
+![<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/bartosz-tobiński-525864246/)
+          
+
