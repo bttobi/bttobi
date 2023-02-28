@@ -1,2 +1,2 @@
-### Bartosz Tobiński 👋
+# Bartosz Tobiński 👋
 
