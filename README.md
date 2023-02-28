@@ -1,6 +1,4 @@
-<summary><h1 style="display: inline-block;">NO LINE</h1></summary>
-<summary><h2 style="display: inline-block;">NO LINE</h1></summary>
-# 🖥️ Bartosz Tobiński
+<h1> 🖥️ Bartosz Tobiński</h1>
 
 ## 👤 Who am I?
 I'm a full-time ICT student at Poznań University of Technology and a front-end developer. <br />
