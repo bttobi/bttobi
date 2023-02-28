@@ -1,7 +1,5 @@
 # 🖥️ Bartosz Tobiński
 
-***
-
 ### 👤 Who am I?
 <p align="justify">I'm a full-time ICT student at Poznań University of Technology and a front-end developer.</p>
 
@@ -21,7 +19,7 @@
 <br />
 <br />
 <br />
-
+***
 
 ### 🎨 What are my interests aside from programming?
 🔧 Repairing and tweaking wide variety of electronic devices<br/>
