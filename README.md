@@ -29,9 +29,9 @@ Currently working at GSK as an IT Automation Trainee.</font>
 #
 
 ### 🎨 What are my interests aside from programming?
-🔧 Repairing and tweaking wide variety of electronic devices<br/>
+<font size="12">🔧 Repairing and tweaking wide variety of electronic devices<br/>
 🤸 Calisthenics<br/>
-🧊 Solving Rubik's Cubes<br/>
+🧊 Solving Rubik's Cubes</font><br/>
 
 #
 
@@ -45,7 +45,7 @@ Currently working at GSK as an IT Automation Trainee.</font>
 #
 
 ### 🎯 Goals / what new technologies to learn
-- Finish a portfolio website
+<font size="12">- Finish a portfolio website
 - Finish a few projects
 - Learn Figma better
 - Testing
@@ -55,3 +55,4 @@ Currently working at GSK as an IT Automation Trainee.</font>
 - Docker
 - Kubernetes
 - Linux
+</font>
