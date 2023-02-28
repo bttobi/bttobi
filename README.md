@@ -38,6 +38,7 @@
 #
 
 ### 🎯 Goals / what to learn
+- TypeScript
 - Advanced ReactJS topics
 - NextJS
 - Docker
