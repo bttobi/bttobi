@@ -1,4 +1,4 @@
-#🖥️ Bartosz Tobiński
+# 🖥️ Bartosz Tobiński
 
 ### Who am I?
 <p align="justify">I'm a full-time ICT student at Poznań University of Technology and a front-end developer.</p>
