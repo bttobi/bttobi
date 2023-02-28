@@ -12,6 +12,7 @@
 <img align="left" padding="5px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" padding="5px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
+<br />
 #
 
 ### 🎨 What are my interests aside from programming?
