@@ -33,6 +33,8 @@
 [<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/bartosz-tobiński-525864246/)
 [<img align="left" padding="5px" width="30px" src="https://user-images.githubusercontent.com/76923032/221997878-6b68806a-de50-4dc0-8586-7e2aab4454cf.png" />](mailto:bartosz@tobinski.pl)
 
+<br />
+
 #
 
 ### 🎯 Goals / what to learn
