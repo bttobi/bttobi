@@ -37,7 +37,9 @@
 
 #
 
-### 🎯 Goals / what to learn
+### 🎯 Goals / what new technologies to learn
+- Finish a portfolio website
+- Finish a few projects
 - TypeScript
 - Advanced ReactJS topics
 - NextJS
