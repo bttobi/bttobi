@@ -1,9 +1,8 @@
 # 🖥️ Bartosz Tobiński
 
 ### 👤 Who am I?
-<p align="justify">I'm a full-time ICT student at Poznań University of Technology and a front-end developer.</p>
+> <p align="justify">I'm a full-time ICT student at Poznań University of Technology and a front-end developer.</p>
 
-___
 
 ### 🧰 Languages and tools
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
