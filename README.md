@@ -22,6 +22,7 @@ Currently working at GSK as an IT Automation Trainee.
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
           
 <br />
 
@@ -46,6 +47,7 @@ Currently working at GSK as an IT Automation Trainee.
 ### 🎯 Goals / what new technologies to learn
 - Finish a portfolio website
 - Finish a few projects
+- Learn Figma better
 - Testing
 - TypeScript
 - Advanced ReactJS topics
