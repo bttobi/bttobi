@@ -44,7 +44,7 @@ Currently working at GSK as an IT Automation Trainee.
 
 #
 
-### 🎯 Goals / what new technologies to learn
+### 🎯 Goals / technologies to learn
 - Finish a portfolio website
 - Finish a few projects
 - Learn Figma better
