@@ -51,6 +51,7 @@ Currently working at GSK as an IT Automation Trainee.
 - Testing
 - TypeScript
 - Advanced ReactJS topics
+- Redux
 - NextJS
 - Docker
 - Kubernetes
