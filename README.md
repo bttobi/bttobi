@@ -54,5 +54,4 @@ Currently working at GSK as an IT Automation Trainee.
 - Redux
 - NextJS
 - Docker
-- Kubernetes
 - Linux
