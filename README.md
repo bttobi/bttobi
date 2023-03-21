@@ -5,7 +5,7 @@ I'm a Information and Communication Technologies (ICT for short) student at Pozn
 Currently working at GSK as an IT Automation Trainee.
 
 #
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 ### 📊 Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=bttobi&count_private=true&show_icons=true&theme=dark&hide=prs,issues,contribs)](https://github.com/bttobi/github-readme-stats)
 
