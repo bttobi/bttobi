@@ -31,7 +31,7 @@ Currently working at GSK in the IT Automation team.
 <img align="left" padding="5px" width="60px" src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.png" /> 
 <img align="left" padding="5px" width="30px" src="https://mui.com/static/logo.png" /> 
 
-<br />
+<br /> <br />
 
 
 #
