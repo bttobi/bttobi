@@ -54,10 +54,10 @@ Currently working at GSK in the IT Automation team.
 - Finish a portfolio website (first iteration done)
 - Finish a few projects
 - Learn Figma better
-- Testing
+- Testing / Jest
 - TypeScript
 - Advanced React.js topics
-- Redux
+- Redux Toolkit
 - Next.js
 - Docker
 - Linux
