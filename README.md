@@ -39,7 +39,8 @@ Currently working at GSK in the IT Automation team.
 ### 🎨 What are my interests besides programming?
 🔧 Repairing and tinkering with wide variety of electronics<br/>
 🤸 Calisthenics<br/>
-🧊 Solving Rubik's Cubes</font><br/>
+🧊 Solving Rubik's Cubes<br/>
+👒 One Piece<br/>
 
 #
 
