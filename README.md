@@ -7,7 +7,7 @@ Currently working at GSK in the IT Automation team.
 #
 
 ### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bttobi&count_private=true&show_icons=true&theme=dark&hide=prs,issues,contribs)
+![Stats](https://github-readme-stats.vercel.app/api?username=bttobi&count_private=true&show_icons=true&theme=cobalt&hide=prs,issues,contribs)
 
 #
 
