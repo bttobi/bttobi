@@ -56,7 +56,7 @@ Currently working at GSK in the IT Automation team.
 - Finish a few projects
 - Learn Figma better
 - MongoDB
-- Testing / Jest
+- React Testing Library with Jest
 - TypeScript
 - Advanced React.js topics
 - Redux Toolkit
