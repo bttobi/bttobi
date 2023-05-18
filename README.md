@@ -48,12 +48,10 @@ Currently working at GSK in the IT Automation team.
 #
 
 ### 🎯 Goals / technologies to learn
-- Finish a portfolio website (first iteration done)
 - Finish a few projects
 - Learn Figma better
 - MongoDB
 - React Testing Library with Jest
-- TypeScript
 - Advanced React.js topics
 - Redux Toolkit
 - Next.js
