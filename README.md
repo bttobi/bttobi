@@ -18,6 +18,7 @@ Currently working at GSK in the IT Automation team.
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="top" padding="5px" width="30px" src="https://github.com/bttobi/bttobi/assets/76923032/106874b0-de2e-4886-81b3-c31fe587ef4c" />
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" padding="5px" width="30px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" />
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="top" padding="5px" width="80px" src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" />
