@@ -1,13 +1,15 @@
 # 🖥️ Bartosz Tobiński
 
 ### 👤 Who am I?
-Frontend developer with React and Information and Communication Technologies (ICT for short) student at Poznań University of Technology. <br />
+Frontend developer with React and Information and Communication Technologies - ICT student at Poznań University of Technology. <br />
 Currently working at GSK in the IT Automation team.
 
 #
 
 ### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bttobi&count_private=true&show_icons=true&theme=cobalt&hide=prs,issues,contribs)
+![Stats](https://github-readme-stats.vercel.app/api?username=bttobi&count_private=true&show_icons=true&theme=onedark&hide=prs,issues,contribs&rank_icon=github)
+<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bttobi&layout=donut&theme=onedark)
 
 #
 
