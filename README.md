@@ -30,8 +30,10 @@ Currently working at GSK in the IT Automation team.
 <img align="top" padding="5px" width="60px" src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.png" /> 
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
+<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+<img align="left" padding="5px" width="30px" src="https://github.com/bttobi/react-form-recruitment-task/assets/76923032/41cfd5ca-2417-423d-8876-266bc3b9f905" /> 
 <img align="top" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
 
 #
 
