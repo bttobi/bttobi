@@ -1,7 +1,7 @@
 # 🖥️ Bartosz Tobiński
 
 ### 👤 Who am I?
-Frontend developer with React and Information and Communication Technologies - ICT student at Poznań University of Technology. <br />
+React Front-end developer and Information and Communication Technologies - ICT student at Poznań University of Technology. <br />
 Currently working at GSK in the IT Automation team.
 
 #
