@@ -2,7 +2,7 @@
 
 ### 👤 Who am I?
 React Front-end developer and Information and Communication Technologies - ICT student at Poznań University of Technology. <br />
-Currently working at GSK in the IT Automation team.
+Currently working at SymphonyAI Sensa-NetRevel as a front-end engineer.
 
 #
 
