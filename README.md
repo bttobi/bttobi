@@ -1,9 +1,9 @@
 # 🖥️ Bartosz Tobiński
 
 ### 👤 Who am I?
-⚛️ React Front-end developer. <br />
+⚛️ React Front-end developer <br />
 🎓 ICT Engineer <br />
-🌐 Currently working at SymphonyAI Sensa-NetRevel as a front-end engineer.
+🌐 Currently working at SymphonyAI Sensa-NetRevel as a front-end engineer
 
 #
 
