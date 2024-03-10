@@ -2,8 +2,8 @@
 
 ### 👤 Who am I?
 ⚛️ React Front-end developer <br />
-🎓 ICT Engineer <br />
-🌐 Currently working at SymphonyAI Sensa-NetRevel as a front-end engineer
+🎓 ICT Engineer - graduated from Poznań University of Technology <br />
+🌐 Currently working at SymphonyAI Sensa-NetReveal as a Front-End React with TypeScript Engineer
 
 #
 
