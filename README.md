@@ -56,6 +56,7 @@
 ### 🎯 Goals / technologies to learn
 - Learn Figma better
 - MongoDB
+- GraphQL
 - Advanced React.js topics
 - Redux Toolkit
 - Next.js
