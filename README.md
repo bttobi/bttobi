@@ -54,11 +54,11 @@
 #
 
 ### 🎯 Goals / technologies to learn
-- Finish a few projects
 - Learn Figma better
 - MongoDB
-- React Testing Library with Jest
 - Advanced React.js topics
 - Redux Toolkit
 - Next.js
+- Spring boot with Java
+- Cypress
 - Linux
