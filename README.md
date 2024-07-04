@@ -3,7 +3,7 @@
 ### 👤 Who am I?
 ⚛️ React Front-end developer <br />
 🎓 ICT Engineer - graduated from Poznań University of Technology <br />
-🌐 Currently working at SymphonyAI as a Front-End React with TypeScript Engineer
+🌐 Currently working at SymphonyAI as a Frontend React with TypeScript Software Engineer
 
 #
 
