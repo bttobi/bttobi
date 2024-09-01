@@ -1,66 +1,18 @@
 # 🖥️ Bartosz Tobiński
-
-### 👤 Who am I?
-⚛️ React Frontend software engineer <br />
-🎓 ICT Engineer - graduated from Poznań University of Technology <br />
-🌐 Currently working at SymphonyAI as Frontend React with TypeScript Software Engineer
-
-#
-
-### 📊 Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=bttobi&count_private=true&show_icons=true&theme=transparent&hide=prs,issues,contribs&rank_icon=github)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bttobi&layout=donut&theme=transparent)
-
-#
-
-### 🧰 Languages and tools
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="top" padding="5px" width="30px" src="https://github.com/bttobi/bttobi/assets/76923032/106874b0-de2e-4886-81b3-c31fe587ef4c" />
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" padding="5px" width="30px" src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" />
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="top" padding="5px" width="80px" src="https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg" />
-<img align="left" padding="5px" width="30px" src="https://mui.com/static/logo.png" /> 
-<img align="left" padding="5px" width="30px" src="https://pagepro.co/blog/wp-content/uploads/2020/03/framer-motion.png" />
-<img align="left" padding="5px" width="30px" src="https://global.discourse-cdn.com/standard17/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" /> 
-<img align="top" padding="5px" width="60px" src="https://reactrouter.com/_brand/react-router-stacked-color-inverted.png" /> 
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
-<img align="left" padding="5px" width="30px" src="https://github.com/bttobi/react-form-recruitment-task/assets/76923032/41cfd5ca-2417-423d-8876-266bc3b9f905" /> 
-<img align="top" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<br><br>### 👤 Who am I?<br>⚛️ React Frontend software engineer <br /><br>🎓 ICT Engineer - graduated from Poznań University of Technology <br /><br>🌐 Currently working at SymphonyAI as Frontend React with TypeScript Software Engineer<br><br>### 🎨 What are my interests besides programming?<br>🔧 Repairing and tinkering with wide variety of electronics<br/><br>🤸 Calisthenics<br/><br>🧊 Solving Rubik's Cubes<br/><br>👒 One Piece<br/>
 
 
-#
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-tobiński-525864246) 
 
-### 🎨 What are my interests besides programming?
-🔧 Repairing and tinkering with wide variety of electronics<br/>
-🤸 Calisthenics<br/>
-🧊 Solving Rubik's Cubes<br/>
-👒 One Piece<br/>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bttobi&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bttobi&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bttobi&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#
+---
+[![](https://visitcount.itsvg.in/api?id=bttobi&icon=1&color=0)](https://visitcount.itsvg.in)
 
-### 🔗 Connect with me!
-[<img align="top" padding="5px" width="30px" src="https://user-images.githubusercontent.com/76923032/221998072-a1a8eedf-9eba-4c0b-ad24-d80320a6b6e2.png"/>  See my website](http://www.tobinski.pl) <br /> <br />
-[<img align="top" padding="5px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />  Visit my LinkedIn](https://www.linkedin.com/in/bartosz-tobiński-525864246/) <br /> <br />
-[<img align="top" padding="5px" width="30px" src="https://user-images.githubusercontent.com/76923032/221997878-6b68806a-de50-4dc0-8586-7e2aab4454cf.png" />  Send me an email](mailto:bartosz@tobinski.pl) <br />
-
-#
-
-### 🎯 Goals / technologies to learn
-- Learn Figma better
-- MongoDB
-- GraphQL
-- Advanced React.js topics
-- Redux Toolkit
-- Next.js
-- Spring boot with Java
-- Cypress
-- Linux
-- Docker
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
