@@ -1,6 +1,6 @@
 # 🖥️ Bartosz Tobiński
 ## 👤 Who am I? <br>
-⚛️ React Frontend developer <br /><br>🎓 ICT Engineer - graduated from Poznań University of Technology <br /><br> 🌐 Currently working at SymphonyAI as Frontend React with TypeScript Software Engineer<br><br>
+⚛️ React Frontend developer <br /><br>🎓 ICT Engineer - Poznań University of Technology graduate<br /><br> 🌐 Currently working at SymphonyAI as Frontend React with TypeScript Software Engineer<br><br>
 ## 🎨 What are my interests besides programming?<br>
 🔧 Repairing and tinkering with wide variety of electronics<br/><br>🤸 Calisthenics<br/><br>🧊 Solving Rubik's Cubes<br/><br>👒 One Piece<br/> <br>
 
