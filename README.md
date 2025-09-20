@@ -1,6 +1,6 @@
 # 🖥️ Bartosz Tobiński
 ## 👤 Who am I? <br>
-⚛️ React Frontend developer <br /><br>🎓 ICT Engineer - Poznań University of Technology graduate<br /><br> 🌐 Currently working at SymphonyAI as Frontend Software Engineer<br><br>
+⚛️ React Frontend developer <br /><br>🎓 ICT Engineer - Poznań University of Technology graduate<br /><br> 🌐 Currently working at Allegro as Frontend Software Engineer<br><br>
 ## 🎨 What are my interests besides programming?<br>
 🔧 Repairing and tinkering electronics<br/><br>🤸 Calisthenics<br/><br>🧊 Solving Rubik's Cubes<br/><br>👒 One Piece<br/> <br> 🖨️ 3D Printing<br/><br>
 
