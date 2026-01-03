@@ -3,5 +3,5 @@ React Frontend developer <br /><br>ICT Engineer - Poznań University of Technolo
 ## things I do in my free time<br>
 tinkering with electronics<br/><br> calisthenics<br/><br> solving Rubik's cubes<br/><br> 3D printing<br/><br>
 
-## links:
+## links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bartosz-tobiński-525864246) 
