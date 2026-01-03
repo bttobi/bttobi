@@ -1,4 +1,3 @@
-# 🖥️ Bartosz Tobiński
 ## about <br>
 React Frontend developer <br /><br>ICT Engineer - Poznań University of Technology graduate<br /><br>Currently working at Allegro as Frontend Software Engineer<br><br>
 ## things I do in my free time<br>
